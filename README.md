@@ -12,5 +12,3 @@ Uses USRP SDR for listen to real radiostations.
 you can see correlation peaks for PSC & CPICH channels. Also there is a cpp real-time implementation of wcdma demodulator 
 for scanning all possible channels. Demodulator needs Intel IPP library & LimeSuite API (now I can get signal only from 
 LimeSDR).
-
-5. DVB-T2 receiver - maybe implement in future.
